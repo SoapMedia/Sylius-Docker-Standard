@@ -9,8 +9,8 @@ on:
 
 env:
     IMAGE_OWNER: soapmedia
-    IMAGE_NAME: standard
-    IMAGE_VERSION: 0.1
+    IMAGE_NAME: sylius
+    IMAGE_VERSION: 8.2
     IMAGE_TYPE: headless
 
 jobs:
